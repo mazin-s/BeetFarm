@@ -1,3 +1,3 @@
-# Dwight's BeetFarm
+# Dwight's BeetFarm (Comp 110 Project)
 
 
